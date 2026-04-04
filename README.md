@@ -89,7 +89,7 @@ All data cleaning and transformation steps were performed using Power Query in P
 ---
 
 ## 📷 Dashboard
-![HR Dashboard](assets/hr-analytics-dashboard.jpg)
+![HR Dashboard](images/hr-analytics-dashboard.jpg)
 
 ---
 
