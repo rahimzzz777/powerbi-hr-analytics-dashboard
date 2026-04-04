@@ -1,5 +1,7 @@
 # Power BI HR Analytics Dashboard
 
+![Project Type](https://img.shields.io/badge/Project-HR%20Analytics-blue)
+
 HR Analytics dashboard built in Power BI to analyze employee attrition and generate business insights.
 
 ## 📌 Project Overview
